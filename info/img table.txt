@@ -1,0 +1,9 @@
+Table: img
+Columns:
+img_id int AI PK 
+img_title varchar(50) 
+img_date datetime(6) 
+img_datetimestamp timestamp(6) 
+img_bid int 
+img_imgname varchar(45) 
+img_comment varchar(45)
