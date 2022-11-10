@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+p{
+	width: 83%;
+	margin: auto;
+	padding: 10px 0 10px 0;
+}
+
+.mbti_img{
+	display: block;
+    margin: auto;
+}
+
+.mbti_main_div h3, h4{
+	margin: 5%;
+}
+
+.mbti_imageMap area{
+	cursor: pointer;
+}

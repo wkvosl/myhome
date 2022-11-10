@@ -22,7 +22,7 @@ switch($mod){
             $sql ="insert into img (img_title, img_comment, img_date, img_datetimestamp, img_imgname) 
                                          values('$title','$comment',now(),current_timestamp(),'$imgname')";
             $result = mysqli_query($conn, $sql);
-            header('Location:../img.php');
+            header('Location:../img.php?ip=1');
             
         break;
         

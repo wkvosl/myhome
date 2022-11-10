@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'func/header.php'; ?>
 
 
 
@@ -9,4 +9,4 @@
 
 
 
-<?php include 'footer.php';?>
+<?php include 'func/footer.php';?>

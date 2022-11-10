@@ -9,4 +9,3 @@
 
 
 
-<?php include 'func/footer.php';?>

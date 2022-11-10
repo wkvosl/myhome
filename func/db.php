@@ -11,4 +11,6 @@ $user="root";
 $pw="a123";
 $db="madsun";
 
+$conn = mysqli_connect($serv, $user, $pw, $db) or die('연결실패');
+
 ?>
